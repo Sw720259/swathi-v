@@ -11,4 +11,5 @@
 <td>brunda</td>
 <td>19</td>
 </tr>
+<p>DETAIL OF PERSON</p>
 </table>
